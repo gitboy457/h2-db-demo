@@ -1,0 +1,11 @@
+
+
+
+
+
+DataBase
+H2 embeded db
+jap implementation 
+one-to-many,many to one  orm mapping
+native query with name parameter
+named query with named parameter
